@@ -8,5 +8,5 @@
 
 ## 2. Check for Linux-headers version should match the kernel version
 
-### 3. My setup
+### My setup
       OS: arch linux 6.8.5
